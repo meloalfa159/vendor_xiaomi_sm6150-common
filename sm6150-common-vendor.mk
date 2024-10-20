@@ -137,6 +137,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.vpp@1.1 \
     vendor.qti.hardware.vpp@1.2 \
     vendor.qti.hardware.vpp@1.3 \
+    sound_trigger.primary.sm6150 \
     vendor.qti.hardware.bluetooth_audio@2.1-impl \
     libOmxAacDec \
     libOmxAlacDec \
@@ -152,6 +153,12 @@ PRODUCT_PACKAGES += \
     libbluetooth_audio_session_qti \
     libbluetooth_audio_session_qti_2_1 \
     libdsd2pcm \
+    libgcs-calwrapper \
+    libgcs-ipc \
+    libgcs-osal \
+    libgcs \
+    liblistensoundmodel2 \
+    libmulawdec \
     libqcodec2 \
     librice \
     libsmwrapper \
